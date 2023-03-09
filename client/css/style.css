@@ -1,0 +1,19 @@
+body, .navbar {
+    background-color: #eef7f7;
+}
+
+header {
+    background-image: url("/images/header-image.png");
+}
+
+aside {
+    background-color: #B0D9D7;
+}
+
+.nav-link:hover, .active, .text-danger {
+    color: #900048 !important;
+}
+
+.bg-content {
+    background-color: #D9BCBA;
+}
